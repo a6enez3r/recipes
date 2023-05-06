@@ -1,15 +1,13 @@
 ---
-title: Cheese Buldak
-original_title: 치즈불닭
-category: Korean Food
-description: Super-spicy chicken tempered with loads of cheese and fresh spring onions. Serve with rice and a light salad – or, better yet, an assortment of side dishes.
-image: cheesebuldak.jpg
-size: 2-3 servings
-time: 1 hour
-author: Maangchi
-source: https://www.youtube.com/watch?v=T9uI1-6Ac6A
+title: Chechebsa
+original_title: ጨጨብሳ
+category: Ethiopian Food
+description: Ethiopian breakfast meal.
+size: 1 serving
+time: 20 minutes
+source: https://typicalethiopian.com/chechebsa-%E1%8C%A8%E1%8C%A8%E1%89%A5%E1%88%B3-recipe-ingredient-preparation/
 spicy: ✓
-favorite: ✓
+vegan: ✓
 ---
 
 * `2 tbsp` chili flakes (gochugaru)

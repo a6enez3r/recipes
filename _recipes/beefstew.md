@@ -1,41 +1,41 @@
 ---
 title: Beef Stew
-description: Simple stir fry rice recipe.
+description: Hearty and comforting dish that is perfect for cold days or when you want a satisfying meal.
 nutrition:
   - 300 calories
   - 60 g sugar
   - 0.8 g fat
   - 3.8 g protein
 category: Comfort
-size: 4-6 servings
-time: 25 minutes
-veggie: ✓
+size: 4 servings
+time: 2 hours and 30 minutes
+source: https://cooking.nytimes.com/recipes/4735-old-fashioned-beef-stew
+meat: ✓
 sweet: ✓
+spicy: ✓
 ---
 
-* `2.5 lbs` beef chuck roast, partially trimmed and cut into 1-inch cubes
-* freshly ground black pepper
-* `2 tbsp` olive oil
-* `4` large carrots, peeled and cut int 1-inch pieces
-* `3` stalks celery, cut into 1-inch pieces
-* `1` large onion, roughly chopped
-* `8` garlic cloves, roughly chopped
-* `1 ½ c` dry red wine, a good one you’d like to drink with dinner
-* `2 tbsp` flour
-* `4 c` beef broth, or stock, high quality
-* `1 tbsp` sugar
-* `12 oz` baby potatoes, peeled and cut into 1-inch pieces
-* `2 tbsp` whole grain mustard
-* freshly chopped parsley for garnish
-
----
-
-> Towel dry beef pieces to remove all excess moisture. Sprinkle liberally with pepper throughout. Heat oil in large heavy pot or Dutch oven over medium-high heat. Add beef and brown on all sides, working in batches so you don’t overcrowd the pieces (they won’t brown if overcrowded.) Transfer beef to a plate.
+* `¼ c` all-purpose flour
+* `¼ tsp` freshly ground pepper
+* `1 pound` beef stewing meat, trimmed and cut into inch cubes
+* `5 tsp` vegetable oil
+* `2 tbsp` red wine vinegar
+* `1 c` red wine
+* `3½ c` beef broth, homemade or low-sodium canned
+* `2` bay leaves
+* `1` medium onion, peeled and chopped
+* `5` medium carrots, peeled and cut into ¼-inch rounds
+* `2` large baking potatoes, peeled and cut into ¾-inch cubes
+* `2` teaspoons salt
 
 ---
 
-> Add a bit of broth to pot to loosen and scrape brown bits from bottom. Add carrots, celery, and onions and stir until softened, 5 min. Add garlic, stirring 1 minute. Add red wine; bring to simmer and simmer until liquid is halfway evaporated, about 4 minutes, stirring to loosen bottom bits.
+> Combine the flour and pepper in a bowl, add the beef and toss to coat well. Heat 3 teaspoons of the oil in a large pot. Add the beef a few pieces at a time; do not overcrowd. Cook, turning the pieces until beef is browned on all sides, about 5 minutes per batch; add more oil as needed between batches.
 
 ---
 
-> Quickly whisk together the flour and all broth; add to the pot with sugar. Add back the browned beef and bring to boil. Reduce to simmer, cover, and cook up to 2 hours or until beef is fork tender. Add the potatoes and mustard during the last 20 minutes of cooking. Taste and season with salt/pepper if needed. Serve warm, garnished with parsley if desired. Great over rice or with rustic bread. Leftovers are delicious.
+> Remove the beef from the pot and add the vinegar and wine. Cook over medium-high heat, scraping the pan with a wooden spoon to loosen any browned bits. Add the beef, beef broth and bay leaves. Bring to a boil, then reduce to a slow simmer.
+
+---
+
+> Cover and cook, skimming broth from time to time, until the beef is tender, about 1½ hours. Add the onions and carrots and simmer, covered, for 10 minutes. Add the potatoes and simmer until vegetables are tender, about 30 minutes more. Add broth or water if the stew is dry. Season with salt and pepper to taste. Ladle among 4 bowls and serve.

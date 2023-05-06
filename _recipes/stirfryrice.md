@@ -1,6 +1,6 @@
 ---
 title: Stir Fry Rice
-description: Simple stir fry rice recipe.
+description: Simple stir fry rice recipe quick and easy to prepare.
 nutrition:
   - 300 calories
   - 60 g sugar
