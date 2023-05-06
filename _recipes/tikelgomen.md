@@ -5,9 +5,8 @@ category: Ethiopian Food
 description: One of Ethiopia's most popular vegetarian dishes! Typically served alongside other dishes on injera flatbread.
 size: 2-3 servings
 time: 1 hour
-source: https://www.youtube.com/watch?v=T9uI1-6Ac6A
+source: https://www.allrecipes.com/recipe/245497/tikil-gomen-ethiopian-cabbage/
 spicy: ✓
-favorite: ✓
 vegan: ✓
 ---
 
