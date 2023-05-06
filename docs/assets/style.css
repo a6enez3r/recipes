@@ -96,11 +96,11 @@ header nav i {
     padding: 0 0.2em;
 }
 header .logo {
-    height: 0.75em;
+    height: 1em;
     padding-right: 0.1em;
 }
 h1 {
-    font-size: 2rem;
+    font-size: 0.75rem;
     margin: 0.4rem 0;
     line-height: 1.2;
 }
@@ -109,13 +109,13 @@ h1 sup {
     vertical-align: text-top;
     color: orange;
     margin-left: -0.1rem;
-    line-height: 1.6;
+    line-height: 1;
 }
 h1 em {
     color: var(--original-title);
-    font-size: 1.4rem;  /* to match x-height of heading */
+    font-size: 0.5rem;  /* to match x-height of heading */
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
     display: inline-block;
 }
 h1 span,

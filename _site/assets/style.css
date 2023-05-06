@@ -109,13 +109,13 @@ h1 sup {
     vertical-align: text-top;
     color: orange;
     margin-left: -0.1rem;
-    line-height: 1.6;
+    line-height: 1;
 }
 h1 em {
     color: var(--original-title);
     font-size: 0.5rem;  /* to match x-height of heading */
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
     display: inline-block;
 }
 h1 span,
