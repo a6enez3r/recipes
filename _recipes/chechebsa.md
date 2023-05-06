@@ -2,7 +2,7 @@
 title: Chechebsa
 original_title: ጨጨብሳ
 category: Ethiopian Food
-description: Ethiopian breakfast meal.
+description: Classic Ethiopian breakfast meal.
 size: 1 serving
 time: 20 minutes
 source: https://typicalethiopian.com/chechebsa-%E1%8C%A8%E1%8C%A8%E1%89%A5%E1%88%B3-recipe-ingredient-preparation/
@@ -10,44 +10,51 @@ spicy: ✓
 vegan: ✓
 ---
 
-* `2 tbsp` chili flakes (gochugaru)
-* `1 tbsp` gochujang
-* `½-⅔ tbsp` soy sauce
-* `1 tbsp` cooking oil
-* `¼ tsp` pepper
-* `2-3 tbsp` rice or corn syrup
-* `2 tbsp` water
-
-> Mix in an oven-proof saucepan or cast-iron skillet – you should end up with a thick marinade.
-
----
-
-* `3-4 cloves` garlic
-* `2 tsp` ginger
-
-> Peel, squish with the side of your knife, then finely mince and add to the marinade.
+* `1 c` all-purpose or gluten-free flour
+* `1\2 c` water
+* `1\2 tsp` salt (or more to your liking)
+* `1 tbsp` oil
+* `1 tbsp` kibe (use two tablespoons vegetable oil for vegan option)
+* `1 tsp` turmeric powder (if you use oil instead of kibe)
+* `1 tsp` mitmita\berbere\paprika (optional)
+* Honey for dressing (optional)
 
 ---
 
-* `1` spring onion
-* `120-200 g` dry mozzarella
-
-> Slice spring onion into very thin slices. Chop cheese into cubes small enough to melt and brown after a few minutes under the broiler (pre-shredded cheese is fine, too). Keep ready in separate bowls.
+> Mix the flour of your choice with salt and oil in a bowl.
 
 ---
 
-* `400 g` chicken breast
-
-> Cut meat into `2-3 cm` cubes and mix into the marinade.
+> Add water and beat for a few minutes. The dough should be thicker than pancake dough. 
 
 ---
 
-> Place the saucepan/skillet on medium-high heat. Once it begins to bubble, cook covered for `7-8 minutes` while stirring regularly. Then, reduce heat and continue for another `8-10` minutes. Turn on your oven's broiler halfway through (or however long it takes to reach temperature).
+> Put a pan on the stovetop and bring it to medium-high heat. Grease with a generous amount of oil.
 
 ---
 
-> Sprinkle cheese on top and place under the broiler until the cheese has melted and crisped up to your liking – that shouldn't take more than a few minutes. (If you've been cooking in a non-oven-safe vessel, there's nothing wrong with transferring things to a baking dish before this stage.)
+> Pour the dough into the pan and spread it with a spoon. Let it cook for 4 minutes.
 
 ---
 
-> Garnish with the spring onion slices and serve.
+> Flip it on the other side and give it 3 minutes. It should start to brown.
+
+---
+
+> Cool the flatbread for a minute and tear it into small pieces.
+
+---
+
+> Add the kibe (oil) to a pan and heat it. If you use kibe, you should not bring it to a boil.
+
+---
+
+> Add mitmita\berbere\paprika\turmeric powder and mix. (optional)
+
+---
+
+> Add the pieces of flatbread and stir for 1 minute.
+
+---
+
+> Dress it with yogurt (for teff) or honey (for an all-purpose floor). You can top it with fruits for a more balanced diet. And there, you have a bowl of delicious chechebsa; serve it hot.

@@ -2,53 +2,42 @@
 title: Misir
 original_title: ምስር
 category: Ethiopian Food
-description: Super-spicy chicken tempered with loads of cheese and fresh spring onions. Serve with rice and a light salad – or, better yet, an assortment of side dishes.
-size: 2-3 servings
+description: One of Ethiopia's most popular vegetarian dishes!
+size: 12 servings
 time: 1 hour
-source: https://www.youtube.com/watch?v=T9uI1-6Ac6A
+source: https://www.daringgourmet.com/misir-wat-ethiopian-spiced-red-lentils/#recipe
 spicy: ✓
-favorite: ✓
 vegan: ✓
 ---
 
-* `2 tbsp` chili flakes (gochugaru)
-* `1 tbsp` gochujang
-* `½-⅔ tbsp` soy sauce
-* `1 tbsp` cooking oil
-* `¼ tsp` pepper
-* `2-3 tbsp` rice or corn syrup
-* `2 tbsp` water
-
-> Mix in an oven-proof saucepan or cast-iron skillet – you should end up with a thick marinade.
-
----
-
-* `3-4 cloves` garlic
-* `2 tsp` ginger
-
-> Peel, squish with the side of your knife, then finely mince and add to the marinade.
+* `8 tbsps` niter kibbeh , divided
+* Homemade Niter Kibbeh (strongly recommended)
+* `2` large yellow onion, very finely diced
+* `6` cloves garlic, finely minced
+* `2` Roma tomato, very finely chopped
+* `6 tbsps` tomato paste
+* `4 tbsps` bebere , divided
+* Homemade Berbere (strongly recommended)
+* `2 c` red lentils, rinsed
+* `5 c` Aneto All-Natural Chicken Broth or Aneto Vegetable Broth
+* `2 tsp` salt
 
 ---
 
-* `1` spring onion
-* `120-200 g` dry mozzarella
-
-> Slice spring onion into very thin slices. Chop cheese into cubes small enough to melt and brown after a few minutes under the broiler (pre-shredded cheese is fine, too). Keep ready in separate bowls.
+> Melt 3 tablespoons of the niter kibbeh in a medium stock pot.  Add the onions and cook over medium-high heat for 8-10 minutes until golden brown.  
 
 ---
 
-* `400 g` chicken breast
-
-> Cut meat into `2-3 cm` cubes and mix into the marinade.
+> Add the garlic, tomatoes, tomato paste and 1 tablespoon of the berbere and cook for 5-7 minutes. Reduce the heat if needed to prevent burning.
 
 ---
 
-> Place the saucepan/skillet on medium-high heat. Once it begins to bubble, cook covered for `7-8 minutes` while stirring regularly. Then, reduce heat and continue for another `8-10` minutes. Turn on your oven's broiler halfway through (or however long it takes to reach temperature).
+> Add the lentils, broth and salt, bring it to a boil, reduce the heat to low and cover and simmer the lentils, stirring occasionally, for 40 minutes (adding more broth if needed) or until the lentils are soft.
 
 ---
 
-> Sprinkle cheese on top and place under the broiler until the cheese has melted and crisped up to your liking – that shouldn't take more than a few minutes. (If you've been cooking in a non-oven-safe vessel, there's nothing wrong with transferring things to a baking dish before this stage.)
+> Stir in the remaining tablespoon of niter kibbeh and berbere. Simmer for a couple more minutes. Add salt to taste.
 
 ---
 
-> Garnish with the spring onion slices and serve.
+> Serve with Ethiopian injera. 
